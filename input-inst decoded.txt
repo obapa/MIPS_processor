@@ -1,6 +1,3 @@
-*****This is the file showing the decoded instructioned in the input.txt file*****
-*****Cannot use this file as the input file to your simulator for testing*********
-
 REGISTERS
 R1 16
 R3 42
